@@ -1,0 +1,46 @@
+body{
+    width: 1000px;
+    height: 1000px;
+    background-color: yellowgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   // text-align: center;
+   
+}
+.image-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+    font-family: fantasy;
+}
+ol{
+    color: brown;
+    justify-content: center;
+    list-style-position: inside;
+    
+}
+
+ul{
+    color: brown;
+    list-style-position: inside;
+    p{
+        display: flex;
+        flex-direction: row;
+    }
+    
+}
+img{
+    width: 200px;
+    height: 300px;
+    
+}
+div{
+   // display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
