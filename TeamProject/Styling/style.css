@@ -1,5 +1,6 @@
 body{
-   
+   height: 1000px;
+   width: 1000px;
     background-color: yellowgreen;
     display: flex;
     flex-direction: column;
@@ -34,7 +35,8 @@ ul{
     
 }
 img{
-    display: flex;
+    height: 500px;
+    width: 400px;
     
 }
 div{
