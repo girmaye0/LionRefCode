@@ -1,11 +1,10 @@
 body{
-    width: 1000px;
-    height: 1000px;
+   
     background-color: yellowgreen;
     display: flex;
     flex-direction: column;
     justify-content: center;
-   // text-align: center;
+    text-align: center;
    
 }
 .image-container{
